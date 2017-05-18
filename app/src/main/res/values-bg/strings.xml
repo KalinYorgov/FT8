@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fitster365</string>
+    <string name="login_as">Влезте Като:</string>
+    <string name="login_as_trainee">Трениращ</string>
+    <string name="login_as_trainer">Треньор</string>
+    <string name="or_login">Или:</string>
+</resources>

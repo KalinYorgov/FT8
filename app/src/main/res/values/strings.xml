@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fitster365</string>
+    <string name="login_as">Login As:</string>
+    <string name="or_login">Or:</string>
+    <string name="login_as_trainer">Trainer</string>
+    <string name="login_as_trainee">Trainee</string>
+</resources>
